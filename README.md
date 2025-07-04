@@ -9,7 +9,7 @@ This project uses Artificial Intelligence to predict social media addiction scor
 - Explore how sleep, focus, and mental well-being are impacted
 - Help schools and parents build smarter prevention strategies
 
----
+
 ---
 
 ## 🧠 Project Workflow
